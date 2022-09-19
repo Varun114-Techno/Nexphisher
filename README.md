@@ -14,7 +14,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/Varun114-Techno/Nexphisher.git`
+* `git clone https://github.com/Varun114-Techno/Nexphisher.git`
 * `cd nexphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
@@ -22,7 +22,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/Varun114-Techno/Nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+apt update ; apt install git -y ; git clone https://github.com/Varun114-Techno/Nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
 ```
 <br>
 <p align="center">
