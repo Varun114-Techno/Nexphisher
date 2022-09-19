@@ -8,7 +8,6 @@
 </p>
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="#"><img title="Language" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"></a>
 </p>
 
 ## Installation :
@@ -27,8 +26,8 @@ apt update ; apt install git -y ; git clone git://github.com/Varun114-Techno/Nex
 ```
 <br>
 <p align="center">
-<img width="50%" src="https://raw.githubusercontent.com/Varun114-Techno/release-download/master/images/nexphisher1.png"/>
-<img width="46%" src="https://raw.githubusercontent.com/Varun114-Techno/release-download/master/images/nexphisher2.png"/>
+<img width="50%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher1.png"/>
+<img width="46%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher2.png"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
@@ -38,7 +37,7 @@ apt update ; apt install git -y ; git clone git://github.com/Varun114-Techno/Nex
 #### [+] Easy for Beginners !
 
 ## Credits :
-#### > Zphisher (https://github.com/Varun114-Techno/zphisher)
+#### > Zphisher (https://github.com/htr-tech/zphisher)
 #### > The Linux Choice (https://github.com/thelinuxchoice)
 #### > DarkSecDevelopers (https://github.com/DarkSecDevelopers)
 #### > Undeadsec (https://github.com/Undeadsec)
@@ -52,11 +51,5 @@ apt update ; apt install git -y ; git clone git://github.com/Varun114-Techno/Nex
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-VARUN114--TECHNO-green?style=for-the-badge&logo=github)](https://github.com/Varun114-Techno)
-
-## Credits
-
-Huge thanks
-
-- HTR-TECH (basew script)
 
 
