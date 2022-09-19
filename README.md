@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/Varun114-Techno/release-download/master/images/banner/nexphisher.png"></a>
+<a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/nexphisher.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Varun114-Techno"><img title="Author" src="https://img.shields.io/badge/Author-varun114--techno-red.svg?style=for-the-badge&logo=github"></a>
